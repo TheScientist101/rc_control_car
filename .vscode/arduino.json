@@ -1,0 +1,5 @@
+{
+    "port": "/dev/tty.usbmodem2101",
+    "board": "adafruit:avr:feather32u4",
+    "sketch": "rc_control.ino"
+}
